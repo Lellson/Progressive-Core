@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "progressivecore:pickaxe_copper"
+  },
+  "pattern": [
+	"mmm",
+    " s ",
+    " s "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "ingotCopper"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

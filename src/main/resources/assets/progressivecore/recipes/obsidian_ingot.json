@@ -1,0 +1,12 @@
+{
+  "result": {
+	"item": "progressivecore:ingot_obsidian",
+	"count": 9
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+	{
+		"item": "progressivecore:block_obsidian"
+	}
+  ]
+}

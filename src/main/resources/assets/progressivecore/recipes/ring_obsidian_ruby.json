@@ -1,0 +1,17 @@
+{
+  "result": {
+      "item": "progressivecore:ring_obsidian",
+	  "data": 1
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+	{
+		"item": "progressivecore:ring_obsidian",
+		"data": 0
+	},
+	{
+		"item": "progressivecore:cut_gem",
+		"data": 0
+	}
+  ]
+}

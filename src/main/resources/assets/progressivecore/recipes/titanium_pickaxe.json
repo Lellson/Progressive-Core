@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "progressivecore:pickaxe_titanium"
+  },
+  "pattern": [
+	"mmm",
+    " s ",
+    " s "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_titanium"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "progressivecore:shovel_bronze"
+  },
+  "pattern": [
+	"m",
+    "s",
+    "s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "ingotBronze"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

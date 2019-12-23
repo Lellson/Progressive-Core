@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "progressivecore:chestplate_hellsteel"
+  },
+  "pattern": [
+	"m m",
+    "mmm",
+    "mmm"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "ingotHellsteel"
+    }
+  }
+}

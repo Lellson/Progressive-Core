@@ -1,0 +1,14 @@
+{
+  "result": {
+	"item": "progressivecore:gem",
+	"data": 4,
+	"count": 9
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+	{
+		"item": "progressivecore:blockgem",
+		"data": 4
+	}
+  ]
+}

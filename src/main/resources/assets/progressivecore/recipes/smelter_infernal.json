@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "progressivecore:smelter3"
+  },
+  "pattern": [
+	"mmm",
+    "msm",
+    "mmm"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "ingotHellsteel"
+    },
+	"s": {
+      "item": "progressivecore:smelter2"
+    }
+  }
+}

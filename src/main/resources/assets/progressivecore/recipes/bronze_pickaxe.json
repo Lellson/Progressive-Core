@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "progressivecore:pickaxe_bronze"
+  },
+  "pattern": [
+	"mmm",
+    " s ",
+    " s "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "ingotBronze"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

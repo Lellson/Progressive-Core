@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "progressivecore:smelter1"
+  },
+  "pattern": [
+	"mmm",
+    "mfm",
+    "mmm"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+	"m": {
+      "item": "minecraft:brick_block"
+    },
+	"f": {
+      "item": "minecraft:furnace"
+    }
+  }
+}

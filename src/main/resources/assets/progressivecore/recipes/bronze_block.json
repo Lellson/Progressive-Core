@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "progressivecore:block_bronze"
+  },
+  "pattern": [
+	"mmm",
+    "mmm",
+    "mmm"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "ingotBronze"
+    }
+  }
+}

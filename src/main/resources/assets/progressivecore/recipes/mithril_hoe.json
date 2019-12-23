@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "progressivecore:hoe_mithril"
+  },
+  "pattern": [
+	"mm",
+    " s",
+    " s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_mithril"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

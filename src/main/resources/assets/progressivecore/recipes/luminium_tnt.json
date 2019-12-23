@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "minecraft:tnt"
+  },
+  "pattern": [
+	"msm",
+    "sms",
+    "msm"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:luminium"
+    },
+	"s": {
+      "item": "minecraft:sand",
+	  "data": 32767
+    }
+  }
+}

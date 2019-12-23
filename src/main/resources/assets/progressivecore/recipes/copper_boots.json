@@ -1,0 +1,16 @@
+{
+  "result": {
+    "item": "progressivecore:boots_copper"
+  },
+  "pattern": [
+    "m m",
+    "m m"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "ingotCopper"
+    }
+  }
+}

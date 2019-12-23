@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "progressivecore:leggings_wood"
+  },
+  "pattern": [
+	"mmm",
+    "m m",
+    "m m"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "logWood"
+    }
+  }
+}

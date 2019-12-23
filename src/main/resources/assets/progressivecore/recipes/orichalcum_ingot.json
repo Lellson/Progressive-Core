@@ -1,0 +1,12 @@
+{
+  "result": {
+	"item": "progressivecore:ingot_orichalcum",
+	"count": 9
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+	{
+		"item": "progressivecore:block_orichalcum"
+	}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "variants": {
+		"type=0": { "model": "progressivecore:oregem_ruby" },
+		"type=1": { "model": "progressivecore:oregem_sapphire" },
+		"type=2": { "model": "progressivecore:oregem_amethyst" },
+		"type=3": { "model": "progressivecore:oregem_topaz" },
+		"type=4": { "model": "progressivecore:oregem_opal" },
+		"type=5": { "model": "progressivecore:oregem_malachite" },
+		"type=6": { "model": "progressivecore:oregem_ruby" },
+		"type=7": { "model": "progressivecore:oregem_ruby" },
+		"type=8": { "model": "progressivecore:oregem_ruby" },
+		"type=9": { "model": "progressivecore:oregem_ruby" },
+		"type=10": { "model": "progressivecore:oregem_ruby" },
+		"type=11": { "model": "progressivecore:oregem_ruby" },
+		"type=12": { "model": "progressivecore:oregem_ruby" },
+		"type=13": { "model": "progressivecore:oregem_ruby" },
+		"type=14": { "model": "progressivecore:oregem_ruby" },
+		"type=15": { "model": "progressivecore:oregem_ruby" }
+    }
+}

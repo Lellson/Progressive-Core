@@ -1,0 +1,24 @@
+{
+  "result": {
+    "item": "progressivecore:light_saber_hilt"
+  },
+  "pattern": [
+    " rt",
+    "rsr",
+	"tr "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "t": {
+      "item": "progressivecore:ingot_titanium"
+    },
+	"s": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+	"r": {
+      "type": "forge:ore_dict",
+      "ore": "dustRedstone"
+    }
+  }
+}

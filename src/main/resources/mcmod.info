@@ -1,0 +1,16 @@
+[
+{
+  "modid": "progressivecore",
+  "name": "Progressive Core",
+  "description": "Core mod for the Progressive Ores series",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lellson"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

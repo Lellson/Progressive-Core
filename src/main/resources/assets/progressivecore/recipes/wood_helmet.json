@@ -1,0 +1,16 @@
+{
+  "result": {
+    "item": "progressivecore:helmet_wood"
+  },
+  "pattern": [
+    "mmm",
+    "m m"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "logWood"
+    }
+  }
+}

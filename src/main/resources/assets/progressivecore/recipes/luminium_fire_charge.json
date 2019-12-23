@@ -1,0 +1,15 @@
+{
+  "result": {
+	"item": "minecraft:fire_charge",
+	"count": 3
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+	{
+		"item": "minecraft:blaze_powder"
+	},
+	{
+		"item": "progressivecore:luminium"
+	}
+  ]
+}

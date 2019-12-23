@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "progressivecore:shovel_orichalcum"
+  },
+  "pattern": [
+	"m",
+    "s",
+    "s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_orichalcum"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

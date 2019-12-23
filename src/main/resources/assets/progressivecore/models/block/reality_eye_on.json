@@ -1,0 +1,36 @@
+{   "parent": "block/block",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "progressivecore:blocks/reality_eye_on",
+        "titan": "progressivecore:blocks/block_titanium",
+        "eye": "progressivecore:blocks/reality_eye_on"
+    },
+    "elements": [
+        {   
+			"__comment": "Inner eye texture",
+            "from": [ 3, 3, 3 ],
+            "to": [ 13, 14, 13 ],
+            "faces": {
+                "down":  { "uv": [ 3, 3, 13, 13 ], "texture": "#eye" },
+                "up":    { "uv": [ 3, 3, 13, 13 ], "texture": "#eye" },
+                "north": { "uv": [ 3, 2, 13, 13 ], "texture": "#eye" },
+                "south": { "uv": [ 3, 2, 13, 13 ], "texture": "#eye" },
+                "west":  { "uv": [ 3, 2, 13, 13 ], "texture": "#eye" },
+                "east":  { "uv": [ 3, 2, 13, 13 ], "texture": "#eye" }
+            }
+        },
+		{   
+			"__comment": "Titanium base",
+            "from": [ 2, 0.1, 2 ],
+            "to": [ 14, 3, 14 ],
+            "faces": {
+                "down":  { "uv": [ 2,  2, 14, 14 ], "texture": "#titan" },
+                "up":    { "uv": [ 2,  2, 14, 14 ], "texture": "#titan" },
+                "north": { "uv": [ 2, 13, 14, 16 ], "texture": "#titan" },
+                "south": { "uv": [ 2, 13, 14, 16 ], "texture": "#titan" },
+                "west":  { "uv": [ 2, 13, 14, 16 ], "texture": "#titan" },
+                "east":  { "uv": [ 2, 13, 14, 16 ], "texture": "#titan" }
+            }
+        }
+    ]
+}

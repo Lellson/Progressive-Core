@@ -1,0 +1,16 @@
+{
+  "result": {
+    "item": "progressivecore:leggings_obsidian"
+  },
+  "pattern": [
+	"mmm",
+    "m m",
+    "m m"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_obsidian"
+    }
+  }
+}

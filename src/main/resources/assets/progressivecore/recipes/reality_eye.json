@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "progressivecore:reality_eye"
+  },
+  "pattern": [
+	"mmm",
+    "mem",
+    "ttt"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:reality_crystal"
+    },
+	"e": {
+      "item": "minecraft:ender_eye"
+    },
+	"t": {
+      "item": "progressivecore:ingot_titanium"
+    }
+  }
+}

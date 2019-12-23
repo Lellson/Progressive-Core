@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "progressivecore:sword_adamantite"
+  },
+  "pattern": [
+	"m",
+    "m",
+    "s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_adamantite"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

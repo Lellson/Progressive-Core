@@ -1,0 +1,16 @@
+{
+  "result": {
+    "item": "progressivecore:chestplate_mithril"
+  },
+  "pattern": [
+	"m m",
+    "mmm",
+    "mmm"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_mithril"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "progressivecore:chestplate_bronze"
+  },
+  "pattern": [
+	"m m",
+    "mmm",
+    "mmm"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "ingotBronze"
+    }
+  }
+}

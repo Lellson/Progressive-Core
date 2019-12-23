@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "progressivecore:titan_crusher"
+  },
+  "pattern": [
+	"mmm",
+    "mmm",
+	" s "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_titanium"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

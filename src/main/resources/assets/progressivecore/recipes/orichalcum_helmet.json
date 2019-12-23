@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "progressivecore:helmet_orichalcum"
+  },
+  "pattern": [
+    "mmm",
+    "m m"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_orichalcum"
+    }
+  }
+}

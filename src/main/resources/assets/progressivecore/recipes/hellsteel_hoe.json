@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "progressivecore:hoe_hellsteel"
+  },
+  "pattern": [
+	"mm",
+    " s",
+    " s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "ingotHellsteel"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

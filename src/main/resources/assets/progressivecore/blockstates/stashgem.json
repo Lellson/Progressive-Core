@@ -1,0 +1,20 @@
+{
+    "variants": {
+		"type=0": { "model": "progressivecore:stash_ruby" },
+		"type=1": { "model": "progressivecore:stash_sapphire" },
+		"type=2": { "model": "progressivecore:stash_amethyst" },
+		"type=3": { "model": "progressivecore:stash_topaz" },
+		"type=4": { "model": "progressivecore:stash_opal" },
+		"type=5": { "model": "progressivecore:stash_malachite" },
+		"type=6": { "model": "progressivecore:stash_ruby" },
+		"type=7": { "model": "progressivecore:stash_ruby" },
+		"type=8": { "model": "progressivecore:stash_ruby" },
+		"type=9": { "model": "progressivecore:stash_ruby" },
+		"type=10": { "model": "progressivecore:stash_ruby" },
+		"type=11": { "model": "progressivecore:stash_ruby" },
+		"type=12": { "model": "progressivecore:stash_ruby" },
+		"type=13": { "model": "progressivecore:stash_ruby" },
+		"type=14": { "model": "progressivecore:stash_ruby" },
+		"type=15": { "model": "progressivecore:stash_ruby" }
+    }
+}

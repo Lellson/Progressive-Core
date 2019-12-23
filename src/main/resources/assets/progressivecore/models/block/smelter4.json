@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "progressivecore:blocks/smelter4_top",
+        "front": "progressivecore:blocks/smelter4_front",
+        "side": "progressivecore:blocks/smelter4_side"
+    }
+}

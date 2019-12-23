@@ -1,0 +1,17 @@
+{
+  "result": {
+      "item": "progressivecore:ring_gold",
+	  "data": 5
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+	{
+		"item": "progressivecore:ring_gold",
+		"data": 0
+	},
+	{
+		"item": "progressivecore:cut_gem",
+		"data": 4
+	}
+  ]
+}

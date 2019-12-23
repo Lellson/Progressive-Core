@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "progressivecore:ring_gold",
+	"data": 0
+  },
+  "pattern": [
+	" m ",
+    "m m",
+    " m "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "minecraft:gold_ingot"
+    }
+  }
+}

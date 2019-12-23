@@ -1,0 +1,12 @@
+{
+  "result": {
+	"item": "progressivecore:luminium",
+	"count": 9
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+	{
+		"item": "progressivecore:block_luminium"
+	}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "progressivecore:ring_obsidian",
+	"data": 0
+  },
+  "pattern": [
+	" m ",
+    "mgm",
+    " m "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_obsidian"
+    },
+	"g": {
+	  "item": "progressivecore:ring_gold",
+	  "data": 0
+	}
+  }
+}

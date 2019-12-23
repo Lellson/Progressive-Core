@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "progressivecore:axe_obsidian"
+  },
+  "pattern": [
+	"mm",
+    "ms",
+    " s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_obsidian"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

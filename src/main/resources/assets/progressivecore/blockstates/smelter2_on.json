@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "progressivecore:smelter2_on" },
+        "facing=south": { "model": "progressivecore:smelter2_on", "y": 180 },
+        "facing=west":  { "model": "progressivecore:smelter2_on", "y": 270 },
+        "facing=east":  { "model": "progressivecore:smelter2_on", "y": 90 }
+    }
+}

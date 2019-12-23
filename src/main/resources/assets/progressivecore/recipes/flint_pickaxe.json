@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "progressivecore:pickaxe_flint"
+  },
+  "pattern": [
+	"mmm",
+    " s ",
+    " s "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "minecraft:flint"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

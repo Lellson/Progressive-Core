@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "progressivecore:axe_copper"
+  },
+  "pattern": [
+	"mm",
+    "ms",
+    " s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "ingotCopper"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

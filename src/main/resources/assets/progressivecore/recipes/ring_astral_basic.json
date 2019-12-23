@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "progressivecore:ring_astral",
+	"data": 0
+  },
+  "pattern": [
+	" m ",
+    "mgm",
+    " m "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:nether_star_piece"
+    },
+	"g": {
+	  "item": "progressivecore:ring_obsidian",
+	  "data": 0
+	}
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "progressivecore:blockgem",
+	"data": 2
+  },
+  "pattern": [
+	"mmm",
+    "mmm",
+    "mmm"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "type": "forge:ore_dict",
+      "ore": "gemAmethyst"
+    }
+  }
+}

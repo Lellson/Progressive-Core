@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "progressivecore:light_saber_green"
+  },
+  "pattern": [
+	"  c",
+    " c ",
+    "h  "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "c": {
+      "item": "progressivecore:cut_emerald"
+    },
+	"h": {
+      "item": "progressivecore:light_saber_hilt"
+    }
+  }
+}

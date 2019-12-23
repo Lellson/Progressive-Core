@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "progressivecore:pickaxe_mithril"
+  },
+  "pattern": [
+	"mmm",
+    " s ",
+    " s "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_mithril"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}

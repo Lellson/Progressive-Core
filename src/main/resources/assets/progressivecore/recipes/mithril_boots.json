@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "progressivecore:boots_mithril"
+  },
+  "pattern": [
+    "m m",
+    "m m"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_mithril"
+    }
+  }
+}

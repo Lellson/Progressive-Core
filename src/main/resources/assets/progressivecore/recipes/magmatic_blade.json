@@ -1,0 +1,23 @@
+{
+  "result": {
+    "item": "progressivecore:magmatic_blade"
+  },
+  "pattern": [
+	"bhb",
+    "bhb",
+    "bsb"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:blaze_powder"
+    },
+	"h": {
+      "type": "forge:ore_dict",
+      "ore": "ingotHellsteel"
+    },
+	"s": {
+      "item": "progressivecore:sword_hellsteel"
+    }
+  }
+}

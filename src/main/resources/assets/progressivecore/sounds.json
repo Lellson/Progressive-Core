@@ -1,0 +1,17 @@
+{
+	"light_saber": {
+		"category": "player",
+		"subtitle": "progressivecore.subtitle.lightsaber",
+		"sounds": [ "progressivecore:light_saber" ]
+	},
+	"scream": {
+		"category": "player",
+		"subtitle": "progressivecore.subtitle.scream",
+		"sounds": [ "progressivecore:scream" ]
+	},
+	"level_up": {
+		"category": "player",
+		"subtitle": "progressivecore.subtitle.level_up",
+		"sounds": [ "progressivecore:level_up" ]
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "progressivecore:gem_polisher"
+  },
+  "pattern": [
+	"tot",
+    "s s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "t": {
+      "item": "progressivecore:ingot_titanium"
+    },
+	"s": {
+      "type": "forge:ore_dict",
+      "ore": "blockSteel"
+    },
+	"o": {
+      "item": "minecraft:obsidian"
+    }
+  }
+}

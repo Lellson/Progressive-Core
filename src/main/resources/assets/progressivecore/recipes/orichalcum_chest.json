@@ -1,0 +1,16 @@
+{
+  "result": {
+    "item": "progressivecore:chestplate_orichalcum"
+  },
+  "pattern": [
+	"m m",
+    "mmm",
+    "mmm"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:ingot_orichalcum"
+    }
+  }
+}

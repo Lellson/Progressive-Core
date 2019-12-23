@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "minecraft:torch",
+	"count": 6
+  },
+  "pattern": [
+	"m",
+    "s"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "m": {
+      "item": "progressivecore:luminium"
+    },
+	"s": {
+      "item": "minecraft:stick"
+    }
+  }
+}
